@@ -238,5 +238,9 @@ SSH into Bastion:
 
 Auto Scaling Test: terminated one EC2; ASG launched replacement → passed health checks and served traffic.
 
+
 <img width="1177" height="368" alt="Screenshot 2025-12-04 at 04 33 08" src="https://github.com/user-attachments/assets/ae99749e-ea38-48fe-b3b5-eaa55c284b75" />
 <img width="1188" height="417" alt="Screenshot 2025-12-04 at 04 30 33" src="https://github.com/user-attachments/assets/5bbf7987-e1d1-4214-9c1c-3d21a628bd42" />
+<img width="1154" height="272" alt="Screenshot 2025-12-04 at 04 29 28" src="https://github.com/user-attachments/assets/99367062-7f31-4df4-949c-8cd79ce95198" />
+<img width="1177" height="368" alt="Screenshot 2025-12-04 at 04 33 08" src="https://github.com/user-attachments/assets/1e3176a7-5fb4-41b5-9f55-ee02375840d2" />
+<img width="1158" height="270" alt="Screenshot 2025-12-04 at 04 40 27" src="https://github.com/user-attachments/assets/743b8f96-c52b-46a7-96d7-49510adfc0ee" />
