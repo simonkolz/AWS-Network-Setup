@@ -6,7 +6,7 @@ This repository contains two AWS infrastructure projects demonstrating practical
 
 ---
 
-## 📁 Project 1: AWS VPC Network Setup
+##  Project 1: AWS VPC Network Setup
 
 In this project, I designed and deployed a fully secure Virtual Private Cloud (VPC) architecture across multiple Availability Zones. This foundational networking setup includes:
 
@@ -21,7 +21,7 @@ This architecture provides a production-ready network environment suitable for s
 
 ---
 
-## 📁 Project 2: Application Load Balancer Deployment
+##  Project 2: Application Load Balancer Deployment
 
 This project focuses on deploying an **Application Load Balancer (ALB)** to distribute traffic across EC2 instances in multiple Availability Zones.
 
@@ -37,7 +37,7 @@ The result is a highly available, resilient, and secure load-balanced web archit
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 These projects demonstrate hands-on experience with:
 
@@ -48,7 +48,7 @@ These projects demonstrate hands-on experience with:
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 * Amazon VPC
 * EC2
